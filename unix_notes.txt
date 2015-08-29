@@ -1,10 +1,14 @@
+you find hidden files by typing ls - la. files that start with a . (period) are regularl hidden.
+DO NOT delete the git repository within a directory. Deletes all changes you've made to a file
+within that directory.
+
 ls
 pwd
 history >> movingaround.txt
 ls -t | less
 ls -l
 ls -rt
-subl movingaround.txt 
+subl movingaround.txt
 history -> movingaround.txt
 history
 history | less
@@ -50,7 +54,7 @@ git config --global user.email
 subl
 echo 'usr/local/bin/fish' | sudo tee -a /etc/shells
 brew install fish
-subl Jave\ Introductions 
+subl Jave\ Introductions
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'nickbcarroll@gmail.com'
@@ -60,7 +64,7 @@ git --version
 brew install git
 echo $PATH
 subl /etc/paths
-echo $PATH 
+echo $PATH
 echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
@@ -68,7 +72,7 @@ brew info fish
 fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
-$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
 sudo nano /private/etc/hosts
 killall SystemUIServer
 defaults write com.apple.screencapture location ~/Documents/Screenshots
@@ -81,7 +85,7 @@ history >> movingaround.txt
 ls -t | less
 ls -l
 ls -rt
-subl movingaround.txt 
+subl movingaround.txt
 history -> movingaround.txt
 history
 history | less
@@ -127,7 +131,7 @@ git config --global user.email
 subl
 echo 'usr/local/bin/fish' | sudo tee -a /etc/shells
 brew install fish
-subl Jave\ Introductions 
+subl Jave\ Introductions
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'nickbcarroll@gmail.com'
@@ -137,7 +141,7 @@ git --version
 brew install git
 echo $PATH
 subl /etc/paths
-echo $PATH 
+echo $PATH
 echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
@@ -145,7 +149,7 @@ brew info fish
 fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
-$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
 sudo nano /private/etc/hosts
 killall SystemUIServer
 defaults write com.apple.screencapture location ~/Documents/Screenshots
