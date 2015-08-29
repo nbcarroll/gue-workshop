@@ -1,0 +1,153 @@
+ls
+pwd
+history >> movingaround.txt
+ls -t | less
+ls -l
+ls -rt
+subl movingaround.txt 
+history -> movingaround.txt
+history
+history | less
+man history
+subl .
+cd Java
+cd Learning\ How\ to\ Code/
+ls .
+ls ../..
+ls /
+ls -
+cd ../..
+clear
+ls -R
+cd Documents
+cd ..
+cd ~
+cd Projects
+cd Photoshop
+cd Pho
+cd Cave\ Loops
+ls -r
+cd
+ls -o
+man ls
+ls -i
+ls -s
+ls -a
+ls -t
+ls -lt
+ls- r
+ls t
+CD Library
+cd Users
+cd Library
+cd /
+~/Documents
+pwd ~
+cd Downloads
+cd D
+git config --global user.name
+git config --global user.email
+subl
+echo 'usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+subl Jave\ Introductions 
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'nickbcarroll@gmail.com'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'Nick Carroll'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $PATH 
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+sudo nano /private/etc/hosts
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Documents/Screenshots
+xattr -dr com.apple.quarantine /Applications/Ableton\ Live\ 9\ Suite.app/
+/Applications/Ableton\ Live\ 9\ Suite.app/Contents/MacOS/Live
+delete movingaround2.txt
+ls
+pwd
+history >> movingaround.txt
+ls -t | less
+ls -l
+ls -rt
+subl movingaround.txt 
+history -> movingaround.txt
+history
+history | less
+man history
+subl .
+cd Java
+cd Learning\ How\ to\ Code/
+ls .
+ls ../..
+ls /
+ls -
+cd ../..
+clear
+ls -R
+cd Documents
+cd ..
+cd ~
+cd Projects
+cd Photoshop
+cd Pho
+cd Cave\ Loops
+ls -r
+cd
+ls -o
+man ls
+ls -i
+ls -s
+ls -a
+ls -t
+ls -lt
+ls- r
+ls t
+CD Library
+cd Users
+cd Library
+cd /
+~/Documents
+pwd ~
+cd Downloads
+cd D
+git config --global user.name
+git config --global user.email
+subl
+echo 'usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+subl Jave\ Introductions 
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'nickbcarroll@gmail.com'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'Nick Carroll'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $PATH 
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+$ ln -s "ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+sudo nano /private/etc/hosts
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Documents/Screenshots
+xattr -dr com.apple.quarantine /Applications/Ableton\ Live\ 9\ Suite.app/
+/Applications/Ableton\ Live\ 9\ Suite.app/Contents/MacOS/Live
