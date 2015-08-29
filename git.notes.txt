@@ -1,0 +1,8 @@
+git init      | initializes a new empty git repository
+git add       | stages changes for commits, or adds them to the index
+git commit    | takes a snapshot of the current state of the code
+git branch    | create a new branch within a repo (does not switch!)
+git status    | see the status of a git reposity and if anything needs to be
+git checkout  | switches branches
+git log       | see the history of git commits
+git config    | set configurations values of git
